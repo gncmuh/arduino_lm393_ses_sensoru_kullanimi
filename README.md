@@ -1,1 +1,1 @@
-# arduino_lm393_ses_sensoru_kullanimi
+# arduino_ses_sensoru_kullanimi
